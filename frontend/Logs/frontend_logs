@@ -1,0 +1,6 @@
+{"time": "2021-03-17 16:59:42,825", "level": "CRITICAL", "message": "login_frontend_service_call_logs:_logs:2021-03-17:valid_user"}
+{"time": "2021-03-17 16:59:48,707", "level": "CRITICAL", "message": "login_frontend_service_call_logs:_logs:2021-03-17:valid_user"}
+{"time": "2021-03-17 16:59:54,988", "level": "CRITICAL", "message": "login_frontend_service_call_logs:_logs:2021-03-17:Invalid Cred"}
+{"time": "2021-03-17 17:00:00,837", "level": "CRITICAL", "message": "login_frontend_service_call_logs:_logs:2021-03-17:valid_user"}
+{"time": "2021-03-17 17:03:52,021", "level": "CRITICAL", "message": "login_frontend_service_call_logs:_logs:2021-03-17:valid_user"}
+{"time": "2021-03-17 17:04:02,989", "level": "CRITICAL", "message": "login_frontend_service_call_logs:_logs:2021-03-17:valid_user"}

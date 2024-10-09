@@ -1,0 +1,7 @@
+{"time": "2021-03-18 06:50:14,986", "level": "CRITICAL", "message": "login_backend_service_logs-2021-03-18:Invalid Cred"}
+{"time": "2021-03-18 06:50:25,420", "level": "CRITICAL", "message": "login_backend_service_logs-2021-03-18:user_logged_in"}
+{"time": "2021-03-18 06:53:15,851", "level": "CRITICAL", "message": "login_backend_service_logs-2021-03-18:user_logged_in"}
+{"time": "2021-03-18 06:55:44,426", "level": "CRITICAL", "message": "login_backend_service_logs-2021-03-18:user_logged_in"}
+{"time": "2021-03-18 06:55:57,601", "level": "CRITICAL", "message": "login_backend_service_logs-2021-03-18:Invalid Cred"}
+{"time": "2021-03-18 06:58:06,393", "level": "CRITICAL", "message": "login_backend_service_logs-2021-03-18:user_not_registered"}
+{"time": "2021-03-18 06:58:06,434", "level": "CRITICAL", "message": "login_backend_service_logs-2021-03-18:user_logged_in"}

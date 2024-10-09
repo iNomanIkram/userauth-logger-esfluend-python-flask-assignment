@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Login & Registration Page</title>
+</head>
+<body bgcolor="gray">
+<h1>Login Form</h1>
+<form action="/form_login" method="post">
+
+    <div>
+        <p>Username:</p>
+        <input type="text" name="username"><br>
+    </div>
+
+    <div>
+        <h3>Password:</h3>
+        <input type="text" name="password"><br>
+    </div>
+
+    <input type="submit" value="login">
+
+</form>
+
+<p>Message Box: {{info}} </p>
+
+
+<h1>Registration Form</h1>
+<form action="/form_register" method="post">
+
+    <div>
+        <p>Username:</p>
+        <input type="text" name="rusername"><br>
+    </div>
+
+    <div>
+        <h3>Password:</h3>
+        <input type="text" name="rpassword"><br>
+    </div>
+
+
+    <div>
+        <h3>Confirm Password:</h3>
+        <input type="text" name="rconfirm_password"><br>
+    </div>
+
+    <input type="submit" value="register">
+
+</form>
+
+<p>Message Box: {{rinfo}} </p>
+
+</body>
+</html>
